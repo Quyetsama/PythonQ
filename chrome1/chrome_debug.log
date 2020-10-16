@@ -1,0 +1,2 @@
+[9952:14276:0830/155336.869:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: t.jobs.slice is not a function", source: https://fb.vieclamonline.org/js/app.a5da53b8.js (1)
+[9952:14276:0830/155352.040:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
